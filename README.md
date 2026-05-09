@@ -5,9 +5,7 @@
 **Section:** BCS-2A
 
 ## GitHub Repository
-https://github.com/YOUR_USERNAME/HospitalMS
-
-*(Replace this link with your actual GitHub repository URL before submitting)*
+https://github.com/HasaanatFAST/OOP_SemEnd_Project
 
 ---
 
